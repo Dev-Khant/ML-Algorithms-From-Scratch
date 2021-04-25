@@ -1,5 +1,5 @@
 
-ML and DL algorithms from scratch
+**ML and DL algorithms from scratch**
 
 
 
